@@ -2,8 +2,8 @@
 
 So for load testing any api we can use some publically available tools.
 Such as :- 
-  **k6** terminal tool | **k6.io** webApp
-  Locust
+  #### **k6** terminal tool | **k6.io** webApp
+  #### Locust
   
 **k6 terminal tool:**
   It's a free tool easy to install on your local machine and give you full authority how to make test case senarios in it.
